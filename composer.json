@@ -1,0 +1,17 @@
+{
+    "name": "wodby/html",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wodby",
+            "email": "wodby@example.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21"
+    }
+}
